@@ -3,7 +3,7 @@
 <html lang="en" prefix="og: http://ogp.me/ns#">
 <head>
   <meta charset="UTF-8">
-  <title>link-daftar-21-situs-slot-gacor</title>
+  <title>daftar-21-situs-slot-gacor</title>
   <link rel="stylesheet" media="all" href="/assets/application-9c7b1f09011ebb0713c230a67542502205b83fcb473d7b616d47c50fc2721202.css" data-turbolinks-track="true" />
   <script src="/assets/application-0a16b0eaf21ce685254254025a69a7091c65d44c25082fa71dd074b53951d7e2.js" data-turbolinks-track="true"></script>
   <meta name="csrf-param" content="authenticity_token" />
